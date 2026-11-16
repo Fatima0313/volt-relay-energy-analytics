@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local data files (do not commit large or restricted datasets by default)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated exports (add selected final PNGs to assets instead)
+*.csv
+*.parquet
+*.duckdb
+*.db
+*.log
+.DS_Store
+Thumbs.db
