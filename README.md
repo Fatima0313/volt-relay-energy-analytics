@@ -104,19 +104,6 @@ Business Recommendations
 6. Build complete profitability monitoring: Reconcile revenue and include battery depreciation, procurement, operating overhead, electricity, rent, and maintenance.
 Visualizations
 Add your actual exported chart PNG files to the assets/ folder and update the filenames below. Do not use illustrative or internet-sourced charts.
-
-Suggested chart order:
-1. assets/monthly_business_performance.png
-2. assets/city_operational_reliability.png
-3. assets/charger_generation_comparison.png
-4. assets/battery_availability_vs_failures.png
-5. assets/hourly_no_battery_failures.png
-6. assets/station_failure_priorities.png
-7. assets/rider_cohort_retention.png
-8. assets/contribution_proxy_and_revenue_variance.png
-9. assets/python_dashboard.png (optional static dashboard preview)
-Example Markdown image:
-![Monthly business performance](assets/monthly_business_performance.png)
 Repository Structure
 volt-relay-energy-analytics/
 ├── README.md
