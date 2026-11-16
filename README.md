@@ -123,15 +123,11 @@ volt-relay-energy-analytics/
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
-│   └── volt_relay_analysis.ipynb
+│   └── Data_analytics_hackathon.ipynb
 ├── assets/
 │   ├── monthly_business_performance.png
-│   ├── city_operational_reliability.png
+│   ├── city_wise_perfomance.png
 │   ├── battery_availability_vs_failures.png
-│   └── ...
-└── data/
-    └── raw/
-        └── (keep raw datasets out of Git unless sharing is permitted)
 How to Reproduce
 1. Open the Google Colab notebook linked above.
 2. Obtain access to the synthetic input datasets from the authorized project folder.
